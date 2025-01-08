@@ -10,7 +10,7 @@ first_name: cheng
 last_name: yao
 
 # Status emoji
-status: studying
+status: 
   icon: 😍
 
 # Is this the primary user of the site?
